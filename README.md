@@ -20,7 +20,7 @@
 
 ## 🐍 Minhas Contribuições
 
-![Snake animation](https://viniciusbrandao98.com/viniciusbrandao98/viniciusbrandao98/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/viniciusbrandao98/viniciusbrandao98/output/github-contribution-grid-snake.svg)
 
 ---
 
