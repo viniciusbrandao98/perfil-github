@@ -3,7 +3,6 @@
 - 👨‍💻 **Desenvolvedor Front-end em formação**
 - 🔭 Desenvolvendo projetos práticos com **HTML, CSS e JavaScript**
 - 🧠 Aplicando conceitos de **Programação Orientada a Objetos** e **manipulação dinâmica do DOM** para criar interfaces interativas
-- 😄 Pronomes: ele/dele
 
 ---
 
